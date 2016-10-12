@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HighlightTextView">
+        <attr name="characterLimit" format="integer" />
+        <attr name="overLimitBackgroundColor" format="color" />
+    </declare-styleable>
+
+</resources>
